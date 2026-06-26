@@ -105,7 +105,7 @@ Heart-Disease-Prediction-ML/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction-ML.git
+git clone https://github.com/deepthishetty628-codes
 ```
 
 Install the required libraries:
